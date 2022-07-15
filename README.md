@@ -1,6 +1,8 @@
 <h1 align="center"> Olá👋, sou o Gabb</h1>
 <h3 align="center">bem vindo a minha jornada, Sou estudante de Ciências da computação e sempre fui apaixonado por computação, me especializei em segurança da informação e atuei como desenvolvedor fullstack recentemente, sigo codando um futuro melhor!</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabbCodes)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabbcodes&label=Profile%20views&color=0e75b6&style=flat" alt="gabbcodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emohascker" target="blank"><img src="https://img.shields.io/twitter/follow/emohascker?logo=twitter&style=for-the-badge" alt="emohascker" /></a> </p>
